@@ -1,3 +1,5 @@
 .venv
 *.html
 downloaded_html_pages/
+unique_extracted_links.txt
+unique_links.txt
